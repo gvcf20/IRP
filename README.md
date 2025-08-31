@@ -1,2 +1,6 @@
 # IRP
+# Universidade Federal de Minas Gerais
 Exercises from class: Introduction to pattern recognition. 
+
+
+The course begins with general concepts of machine learning, followed by the study of distance metrics, distance matrices, and the KNN algorithm, including its weighted version and practical implementations. Next, it introduces the simple perceptron and its applications, moving on to probabilistic methods such as Bayes’ rule, Naive Bayes, and one-dimensional and two-dimensional extensions, as well as Gaussian mixtures and kernel density estimation (KDE), exploring feature spaces and parameter tuning. Evaluation tools such as confusion matrices, ROC curves, and data balancing techniques like SMOTE and Tomek Links are also covered. The course then addresses margin maximization, leading to the introduction of SVM and LSSVM, discussing their relationships with weighted KNN in projection spaces, along with practical exercises and final project applications. It further explores feature extraction and selection techniques, including PCA, and advanced models such as convolutional neural networks (CNNs). The program is complemented by learning tests, project presentations, and a final exam.
