@@ -3,3 +3,6 @@ pandas
 matplotlib
 scikit-learn
 tqdm
+plotly
+nbformat>=4.2.0 
+ipywidgets
