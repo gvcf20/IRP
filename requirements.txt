@@ -6,3 +6,4 @@ tqdm
 plotly
 nbformat>=4.2.0 
 ipywidgets
+mlbench-core
